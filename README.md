@@ -2,8 +2,7 @@
 
 We have implemented frequency hiding order-preserving encryption schemes for MySQL.
 These following features are included in our model:
-1. UDF code for our scheme, modified mOPE, POPE in OPEUDF/udf;
-2. Python protoype for our scheme written in POPE source code in OPEUDF/client;
+UDF code for our scheme
 
 
 ###Hint: in order to work properly, you should compile `ope.cc` manually. Shell codes:
