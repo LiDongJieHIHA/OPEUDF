@@ -21,7 +21,7 @@ public:
 	virtual void traverse(){return ; };
 };
 
-int M = 8;
+int M = 128;
 extern Node *root;
 extern long long start_update;
 extern long long end_update;
