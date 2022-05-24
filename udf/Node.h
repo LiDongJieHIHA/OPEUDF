@@ -338,7 +338,7 @@ void LeafNode::traverse() {
 void root_initial() {
 	root = new LeafNode();
 	((LeafNode*)root)->lower = 0;
-	((LeafNode*)root)->upper = pow(2, 60);
+	((LeafNode*)root)->upper = pow(2, 62);
 	update.clear();
 };
 
